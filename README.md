@@ -13,7 +13,7 @@ A simple and user-friendly To-Do List web application built using **HTML**, **CS
 ## Demo
 
 Check out the live demo here:  
-[https://pranav-banaganapalli.github.io/To-Do-App/](https://pranav-banaganapalli.github.io/To-Do-App/)
+[👉 Click Here.](https://pranav-banaganapalli.github.io/To-Do-App/)
 
 ## Technologies Used
 
